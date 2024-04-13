@@ -2,3 +2,8 @@
 *.iml
 **/docker_mirror_cache
 **/docker_mirror_certs
+.build_data
+*.bak
+_dummyfile
+.qemu_static
+.imports
